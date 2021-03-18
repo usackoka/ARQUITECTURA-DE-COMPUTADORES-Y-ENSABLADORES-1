@@ -1,0 +1,17 @@
+<py2>
+	<ecuacion>
+		(x^2/4) + (y^2/8+2) + z^2 = 0
+	</ecuacion>
+	<ejex>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejex>
+	<ejey>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejey>
+	<ejez>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejez>
+</py2>

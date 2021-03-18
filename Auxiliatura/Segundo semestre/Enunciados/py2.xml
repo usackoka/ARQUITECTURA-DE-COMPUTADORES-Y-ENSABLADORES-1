@@ -1,0 +1,17 @@
+<py2>
+	<ecuacion>
+		2*(x)–3*(y)–1*(z)=-(15/3)
+	</ecuacion>
+	<ejex>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejex>
+	<ejey>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejey>
+	<ejez>
+		<linf>-10</linf>
+		<lsup>10</lsup>
+	</ejez>
+</py2>

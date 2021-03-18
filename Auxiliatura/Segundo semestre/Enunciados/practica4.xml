@@ -1,0 +1,14 @@
+<arqui1>
+	<Operacion1>
+		10 * 9 / 2 ** 5 + 43 - 5 !;
+	</Operacion1>
+	<Operacion2>
+		5 + 2.32 * 8 % 2;
+	</Operacion2>
+	<Operacion3>
+		0.25 - 58 + 1! + 0!;
+	</Operacion3>
+	<Operacion4>
+		10 ** 2 - 5 % 4 + 8;
+	</Operacion4>
+</arqui1>
